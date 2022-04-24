@@ -7,7 +7,7 @@ These are the functions of Mac :-
 3. Scheduling
 4. Multiplexing/Demultiplexing for carrier aggregation 
 
-##### Multiplexing Logical Channel
+### Multiplexing Logical Channel
 
 MAC layer provides the services to the RLC in the form of logical channels.
 
