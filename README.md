@@ -17,12 +17,12 @@ MAC layer uses services from PHY layer in the form of transport channel.
 
 **Transport Channel:** It is defined by "how and with what characteristic information" is transmitted over the radio interface. This includes paging, broadcast or shared channel.
 
-Logical Channel have:
-a) Broadcast Control Channel (BCCH)
-b) Paging Control Channel (PCCH)
-c) Common Control Channel (CCCH)
-d) Dedicated Control Channel (DCCH)
-e) Dedicated Traffic Control Channel (DTCH)
+Logical Channel have: <br />
+a)<br /> Broadcast Control Channel (BCCH)
+b)<br /> Paging Control Channel (PCCH)
+c)<br /> Common Control Channel (CCCH)
+d)<br /> Dedicated Control Channel (DCCH)
+e)<br /> Dedicated Traffic Control Channel (DTCH)
 
 Tansport Channel have:
 a) Broadcast Channel (BCH)
