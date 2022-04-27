@@ -35,6 +35,8 @@ e) Random Access Channel (RACH)<br />
 
 In this, the data are distributed over multiple cells not just at one cell.
 
+Hybrid automatic repeat request (hybrid ARQ or HARQ) is a combination of high-rate forward error correction (FEC) and automatic repeat request (ARQ) error-control.
+
 **HARQ**<br />
 The main mechanism responsible for retransmission in MAC layer is HARQ.
 
