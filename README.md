@@ -30,3 +30,18 @@ b) Paging Channel (PCH)<br />
 c) Downlink Shared Channel (DL-SCH)<br />
 d) Uplink Shared Channel (UL-SCH)<br />
 e) Random Access Channel (RACH)<br />
+
+**Carrier Aggregation**
+
+In this, the data are distributed over multiple cells not just at one cell.
+
+**HARQ**
+The main mechanism responsible for retransmission in MAC layer is HARQ.
+
+It is hybrid such as, it checks error message through channeling and retransmission of message if error occurs. 
+
+NOTE:
+Error Correecction are done on = PHY layer
+Retransmission are done on = MAC layer
+
+
