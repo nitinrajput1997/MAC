@@ -35,7 +35,7 @@ e) Random Access Channel (RACH)<br />
 
 In this, the data are distributed over multiple cells not just at one cell.
 
-**HARQ**
+**HARQ**<br />
 The main mechanism responsible for retransmission in MAC layer is HARQ.
 
 It is hybrid such as, it checks error message through channeling and retransmission of message if error occurs. 
@@ -56,3 +56,9 @@ Suppose there are three different user connected to base station. Now they have 
 Now the Scheduler comes into the game, it takes frequency resources and for each time instant lets say onee slot for a given time instant of a scheduling interval. It schedules 'where and how much data' the different users can use and when this is successfull in the next and subsequent time slot , the scheduler keeps updating for each slot, what is the best allocation of resources between different users. This is the function of scheduler.
 
 Now, officially Scheduler is the part of MAC-Layer in NR. It is better to accept scheduler as a sepearte entity because it interacts with different layers in order to carry out its functions and also controls its different layers in oreder to carry out its functions.
+
+On What basis does scheduler makes it descision :-<br />
+a. Channel Conditions<br />
+b. Buffer Status<br />
+c. Data Flows Priority<br />
+
